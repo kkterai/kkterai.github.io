@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Object Oriented Ruby"
-date:   2016-08-16 04:26:21 +0000
+title:  "Object-Oriented Ruby"
+date:   2016-08-16 00:26:21 -0400
 ---
 
 
@@ -9,7 +9,7 @@ Ruby follows both [procedural](https://en.wikipedia.org/wiki/Procedural_programm
 
 According to Wikipedia, “[Object-oriented programming (OOP) ](https://en.wikipedia.org/wiki/Object-oriented_programming) is a programming paradigm based on the concept of “objects“, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods.” 
 
-To paraphrase Avi Flombaum at around 8:50 in his Intro to OO talk:
+To paraphrase Avi Flombaum at around 8:50 in his [Intro to OO talk](http://learn-co-videos.s3.amazonaws.com/ruby/Intro.to.OO.ruby.LV.mp4):
 
 In Ruby, objects in general can do a lot “out of the box” due to inheritance because:
 
