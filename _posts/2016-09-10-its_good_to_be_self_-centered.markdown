@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "It's good to be "self"-centered"
+title:  "It's good to be 'self'-centered"
 date:   2016-09-10 01:38:12 -0400
 ---
 
