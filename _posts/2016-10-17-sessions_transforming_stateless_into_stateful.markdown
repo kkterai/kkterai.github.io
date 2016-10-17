@@ -9,7 +9,7 @@ Say you are visiting your favorite online retailer for a specific unique item an
 
 Although a smooth online shopping experience can be taken for granted, this would not be unusual if we only had HTTP to work with.
 
-**First, what is HTTP? **
+**First, what is HTTP?**
 
 HTTP provides a standardized way for computers to communicate with each other. Specifically, it defines how clients' request data will be constructed and sent to the server, and how servers respond to these requests.
 
