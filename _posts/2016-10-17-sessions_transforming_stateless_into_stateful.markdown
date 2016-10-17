@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sessions: Transforming Stateless into Stateful"
-date:   2016-10-17 20:29:00 +0000
+date:   2016-10-17 16:29:01 -0400
 ---
 
 
