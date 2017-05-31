@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rails: Active Record Validations, Part 1"
+title:  Rails: Active Record Validations
 date:   2016-11-18 15:47:37 -0500
 ---
 
