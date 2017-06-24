@@ -1,12 +1,12 @@
 # Site settings
-title: My Blog at Learn.co
+title: Kenlyn Terai
 header-img: img/home-bg.png
 email: kkterai@gmail.com
 copyright_name: kkterai
 description: > # this means to ignore newlines until "baseurl:"
-  A Running Start in Full Stack Web Development
+  Web Development | Product Management 
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: kkterai
+twitter_username: 
 github_username:  kkterai
 learn_profile: kkterai
 email_username: kkterai@gmail.com
