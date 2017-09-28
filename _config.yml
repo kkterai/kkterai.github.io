@@ -1,12 +1,12 @@
 # Site settings
-title: Kenlyn Terai
+title: Web Developer or Bust!
 header-img: img/home-bg.png
 email: kkterai@gmail.com
 copyright_name: kkterai
 description: > # this means to ignore newlines until "baseurl:"
-  Web and Product Development
+  Learning Code and other Stories
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: 
+twitter_username: kkterai
 github_username:  kkterai
 learn_profile: kkterai
 email_username: kkterai@gmail.com
