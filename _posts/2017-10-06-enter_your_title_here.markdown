@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Enter your title here"
-date:       2017-10-06 12:34:51 +0000
+date:       2017-10-06 08:34:52 -0400
 permalink:  enter_your_title_here
 ---
 
